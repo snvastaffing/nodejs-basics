@@ -4,18 +4,7 @@
 
 <br/>
 
-## Related Topics
 
-* *[HTML Basics](https://github.com/learning-zone/html-basics)*
-* *[CSS Basics](https://github.com/learning-zone/css-basics)*
-* *[JavaScript Basics](https://github.com/learning-zone/javascript-basics)*
-* *[SQL Basics](https://github.com/learning-zone/sql-basics)*
-* *[MongoDB Basics](https://github.com/learning-zone/mongodb-basics)*
-* *[Node.js APIs](nodejs-api.md)*
-* *[Node.js Commands](nodejs-commands.md)*
-* *[Node.js Coding Practice](nodejs-programming.md)*
-
-<br/>
 
 ## Table of Contents
 
@@ -4963,3 +4952,19 @@ console.log(x); // 10
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
+
+
+
+
+## Related Topics
+
+* *[HTML Basics](https://github.com/learning-zone/html-basics)*
+* *[CSS Basics](https://github.com/learning-zone/css-basics)*
+* *[JavaScript Basics](https://github.com/learning-zone/javascript-basics)*
+* *[SQL Basics](https://github.com/learning-zone/sql-basics)*
+* *[MongoDB Basics](https://github.com/learning-zone/mongodb-basics)*
+* *[Node.js APIs](nodejs-api.md)*
+* *[Node.js Commands](nodejs-commands.md)*
+* *[Node.js Coding Practice](nodejs-programming.md)*
+
+<br/>
